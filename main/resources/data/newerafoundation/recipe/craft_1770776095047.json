@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:magma_block"
+    },
+    "B": {
+      "item": "minecraft:magma_block"
+    },
+    "C": {
+      "item": "minecraft:magma_block"
+    },
+    "D": {
+      "item": "minecraft:glass"
+    },
+    "E": {
+      "item": "newerafoundation:iron_tank"
+    },
+    "F": {
+      "item": "minecraft:glass"
+    },
+    "G": {
+      "item": "minecraft:magma_block"
+    },
+    "H": {
+      "item": "minecraft:magma_block"
+    },
+    "I": {
+      "item": "minecraft:magma_block"
+    }
+  },
+  "result": {
+    "id": "newerafoundation:magma_tank",
+    "count": 1
+  }
+}

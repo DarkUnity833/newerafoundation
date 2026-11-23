@@ -1,0 +1,6 @@
+{
+  "parent": "newerafoundation:block/diamond_tank",
+  "textures": {
+    "all": "newerafoundation:block/diamond_tank_side_stacked"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "render_type": "translucent",
+  "textures": {
+    "particle": "newerafoundation:block/gold_tank_side",
+    "all": "newerafoundation:block/gold_tank_side",
+    "top": "newerafoundation:block/gold_tank_top",
+    "bottom": "newerafoundation:block/gold_tank_top"
+  },
+  "elements": [
+    {
+      "from": [2, 0, 2],
+      "to": [14, 16, 14],
+      "faces": {
+        "north": { "uv": [2, 0, 14, 16], "texture": "#all", "cullface": "north" },
+        "south": { "uv": [2, 0, 14, 16], "texture": "#all", "cullface": "south" },
+        "west":  { "uv": [2, 0, 14, 16], "texture": "#all", "cullface": "west" },
+        "east":  { "uv": [2, 0, 14, 16], "texture": "#all", "cullface": "east" },
+        "up":    { "uv": [2, 2, 14, 14], "texture": "#top", "cullface": "up" },
+        "down":  { "uv": [2, 2, 14, 14], "texture": "#bottom", "cullface": "down" }
+      }
+    }
+  ]
+}

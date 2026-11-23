@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " I ",
+    "IPI",
+    " I "
+  ],
+  "key": {
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "P": {
+      "item": "newerafoundation:copper_pipe"
+    }
+  },
+  "result": {
+    "id": "newerafoundation:iron_pipe",
+    "count": 1
+  }
+}

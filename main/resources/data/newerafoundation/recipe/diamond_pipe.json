@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " I ",
+    "IPI",
+    " I "
+  ],
+  "key": {
+    "I": {
+      "tag": "c:gems/diamond"
+    },
+    "P": {
+      "item": "newerafoundation:gold_pipe"
+    }
+  },
+  "result": {
+    "id": "newerafoundation:diamond_pipe",
+    "count": 1
+  }
+}

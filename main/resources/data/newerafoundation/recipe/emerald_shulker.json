@@ -1,0 +1,21 @@
+{
+  "type": "newerafoundation:shulker_upgrade",
+  "category": "misc",
+  "pattern": [
+    "III",
+    "ISI",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:emerald"
+    },
+    "S": {
+      "item": "newerafoundation:diamond_shulker"
+    }
+  },
+  "result": {
+    "id": "newerafoundation:emerald_shulker",
+    "count": 1
+  }
+}

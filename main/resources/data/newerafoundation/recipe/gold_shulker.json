@@ -1,0 +1,21 @@
+{
+  "type": "newerafoundation:shulker_upgrade",
+  "category": "misc",
+  "pattern": [
+    "III",
+    "ISI",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "item": "newerafoundation:iron_shulker"
+    }
+  },
+  "result": {
+    "id": "newerafoundation:gold_shulker",
+    "count": 1
+  }
+}

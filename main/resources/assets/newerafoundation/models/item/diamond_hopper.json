@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "newerafoundation:item/diamond_hopper"
+  }
+}

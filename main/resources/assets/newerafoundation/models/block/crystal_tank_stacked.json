@@ -1,0 +1,6 @@
+{
+  "parent": "newerafoundation:block/crystal_tank",
+  "textures": {
+    "all": "newerafoundation:block/crystal_tank_side_stacked"
+  }
+}

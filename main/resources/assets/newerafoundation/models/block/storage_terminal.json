@@ -1,0 +1,45 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "newerafoundation:block/storage_terminal_side",
+    "front": "newerafoundation:block/storage_terminal_front",
+    "side": "newerafoundation:block/storage_terminal_side",
+    "back": "newerafoundation:block/storage_terminal_back",
+    "top": "newerafoundation:block/storage_terminal_top",
+    "bottom": "newerafoundation:block/storage_terminal_bottom"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "north": {
+          "texture": "#front"
+        },
+        "south": {
+          "texture": "#back"
+        },
+        "east": {
+          "texture": "#side"
+        },
+        "west": {
+          "texture": "#side"
+        },
+        "up": {
+          "texture": "#top"
+        },
+        "down": {
+          "texture": "#bottom"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "newerafoundation:block/gold_tank",
+  "textures": {
+    "all": "newerafoundation:block/gold_tank_side_stacked"
+  }
+}

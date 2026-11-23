@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "up=false": {
+      "model": "newerafoundation:block/crystal_tank"
+    },
+    "up=true": {
+      "model": "newerafoundation:block/crystal_tank_stacked"
+    }
+  }
+}

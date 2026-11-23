@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "up=false": {
+      "model": "newerafoundation:block/iron_tank"
+    },
+    "up=true": {
+      "model": "newerafoundation:block/iron_tank_stacked"
+    }
+  }
+}

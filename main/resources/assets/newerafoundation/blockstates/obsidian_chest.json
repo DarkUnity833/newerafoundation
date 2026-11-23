@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,open=false": { "model": "minecraft:block/obsidian" },
+    "facing=north,open=true":  { "model": "minecraft:block/obsidian" },
+    "facing=south,open=false": { "model": "minecraft:block/obsidian" },
+    "facing=south,open=true":  { "model": "minecraft:block/obsidian" },
+    "facing=east,open=false":  { "model": "minecraft:block/obsidian" },
+    "facing=east,open=true":   { "model": "minecraft:block/obsidian" },
+    "facing=west,open=false":  { "model": "minecraft:block/obsidian" },
+    "facing=west,open=true":   { "model": "minecraft:block/obsidian" }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "newerafoundation:shulker_upgrade",
+  "category": "misc",
+  "pattern": [
+    "III",
+    "ISI",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:copper_ingot"
+    },
+    "S": {
+      "tag": "newerafoundation:vanilla_shulker_boxes"
+    }
+  },
+  "result": {
+    "id": "newerafoundation:copper_shulker",
+    "count": 1
+  }
+}

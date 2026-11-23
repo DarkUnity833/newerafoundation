@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "newerafoundation:block/obsidian_front",
+    "bottom": "newerafoundation:block/obsidian_bottom",
+    "side": "newerafoundation:block/obsidian_side"
+  }
+}

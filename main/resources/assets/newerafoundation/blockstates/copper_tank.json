@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "up=false": {
+      "model": "newerafoundation:block/copper_tank"
+    },
+    "up=true": {
+      "model": "newerafoundation:block/copper_tank_stacked"
+    }
+  }
+}

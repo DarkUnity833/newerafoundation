@@ -1,0 +1,6 @@
+{
+  "parent": "newerafoundation:block/netherite_tank",
+  "textures": {
+    "all": "newerafoundation:block/netherite_tank_side_stacked"
+  }
+}

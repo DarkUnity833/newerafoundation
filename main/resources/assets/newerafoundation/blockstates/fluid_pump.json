@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "newerafoundation:block/fluid_pump"
+    },
+    "facing=east": {
+      "model": "newerafoundation:block/fluid_pump",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "newerafoundation:block/fluid_pump",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "newerafoundation:block/fluid_pump",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "newerafoundation:block/fluid_pump",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "newerafoundation:block/fluid_pump",
+      "x": 90
+    }
+  }
+}

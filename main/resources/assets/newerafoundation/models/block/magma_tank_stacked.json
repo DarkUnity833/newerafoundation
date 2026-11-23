@@ -1,0 +1,6 @@
+{
+  "parent": "newerafoundation:block/magma_tank",
+  "textures": {
+    "all": "newerafoundation:block/magma_tank_side_stacked"
+  }
+}

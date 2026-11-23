@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "newerafoundation:block/storage_terminal",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "newerafoundation:block/storage_terminal",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "newerafoundation:block/storage_terminal",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "newerafoundation:block/storage_terminal",
+      "y": 270
+    }
+  }
+}

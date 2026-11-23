@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "up=false": {
+      "model": "newerafoundation:block/magma_tank"
+    },
+    "up=true": {
+      "model": "newerafoundation:block/magma_tank_stacked"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "newerafoundation:block/storage_analyzer"
+    }
+  }
+}

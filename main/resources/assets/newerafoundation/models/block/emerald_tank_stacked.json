@@ -1,0 +1,6 @@
+{
+  "parent": "newerafoundation:block/emerald_tank",
+  "textures": {
+    "all": "newerafoundation:block/emerald_tank_side_stacked"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "top": "newerafoundation:block/copper_blast_furnace_side",
+    "bottom": "newerafoundation:block/copper_blast_furnace_side",
+    "side": "newerafoundation:block/copper_blast_furnace_side",
+    "front": "newerafoundation:block/copper_blast_furnace_front"
+  }
+}

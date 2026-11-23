@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "up=false": {
+      "model": "newerafoundation:block/netherite_tank"
+    },
+    "up=true": {
+      "model": "newerafoundation:block/netherite_tank_stacked"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "top": "newerafoundation:block/magma_furnace_side_off",
+    "bottom": "newerafoundation:block/magma_furnace_side_off",
+    "side": "newerafoundation:block/magma_furnace_side_off",
+    "front": "newerafoundation:block/magma_furnace_front"
+  }
+}

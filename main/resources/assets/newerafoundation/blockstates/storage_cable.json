@@ -1,0 +1,115 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "newerafoundation:block/storage_cable_core"
+      }
+    },
+    {
+      "when": {
+        "south": "cable"
+      },
+      "apply": {
+        "model": "newerafoundation:block/storage_cable_arm"
+      }
+    },
+    {
+      "when": {
+        "south": "block"
+      },
+      "apply": {
+        "model": "newerafoundation:block/storage_cable_plug"
+      }
+    },
+    {
+      "when": {
+        "west": "cable"
+      },
+      "apply": {
+        "model": "newerafoundation:block/storage_cable_arm",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "west": "block"
+      },
+      "apply": {
+        "model": "newerafoundation:block/storage_cable_plug",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "north": "cable"
+      },
+      "apply": {
+        "model": "newerafoundation:block/storage_cable_arm",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "north": "block"
+      },
+      "apply": {
+        "model": "newerafoundation:block/storage_cable_plug",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "east": "cable"
+      },
+      "apply": {
+        "model": "newerafoundation:block/storage_cable_arm",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "east": "block"
+      },
+      "apply": {
+        "model": "newerafoundation:block/storage_cable_plug",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "up": "cable"
+      },
+      "apply": {
+        "model": "newerafoundation:block/storage_cable_arm",
+        "x": 90
+      }
+    },
+    {
+      "when": {
+        "up": "block"
+      },
+      "apply": {
+        "model": "newerafoundation:block/storage_cable_plug",
+        "x": 90
+      }
+    },
+    {
+      "when": {
+        "down": "cable"
+      },
+      "apply": {
+        "model": "newerafoundation:block/storage_cable_arm",
+        "x": 270
+      }
+    },
+    {
+      "when": {
+        "down": "block"
+      },
+      "apply": {
+        "model": "newerafoundation:block/storage_cable_plug",
+        "x": 270
+      }
+    }
+  ]
+}

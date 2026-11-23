@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "up=false": {
+      "model": "newerafoundation:block/emerald_tank"
+    },
+    "up=true": {
+      "model": "newerafoundation:block/emerald_tank_stacked"
+    }
+  }
+}

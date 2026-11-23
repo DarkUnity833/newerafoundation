@@ -1,0 +1,128 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "newerafoundation:block/storage_cable",
+    "cable": "newerafoundation:block/storage_cable",
+    "port": "newerafoundation:block/storage_cable_port"
+  },
+  "elements": [
+    {
+      "from": [
+        6,
+        6,
+        10
+      ],
+      "to": [
+        10,
+        10,
+        14
+      ],
+      "faces": {
+        "east": {
+          "uv": [
+            6,
+            4,
+            10,
+            8
+          ],
+          "texture": "#cable"
+        },
+        "west": {
+          "uv": [
+            6,
+            4,
+            10,
+            8
+          ],
+          "texture": "#cable"
+        },
+        "up": {
+          "uv": [
+            6,
+            4,
+            10,
+            8
+          ],
+          "texture": "#cable"
+        },
+        "down": {
+          "uv": [
+            6,
+            4,
+            10,
+            8
+          ],
+          "texture": "#cable"
+        }
+      }
+    },
+    {
+      "from": [
+        4,
+        4,
+        14
+      ],
+      "to": [
+        12,
+        12,
+        16
+      ],
+      "faces": {
+        "south": {
+          "uv": [
+            4,
+            4,
+            12,
+            12
+          ],
+          "texture": "#port"
+        },
+        "north": {
+          "uv": [
+            4,
+            4,
+            12,
+            12
+          ],
+          "texture": "#port"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            6,
+            12
+          ],
+          "texture": "#port"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            6,
+            12
+          ],
+          "texture": "#port"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            12,
+            6
+          ],
+          "texture": "#port"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            12,
+            6
+          ],
+          "texture": "#port"
+        }
+      }
+    }
+  ]
+}

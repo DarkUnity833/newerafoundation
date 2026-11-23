@@ -1,0 +1,21 @@
+{
+  "type": "newerafoundation:shulker_upgrade",
+  "category": "misc",
+  "pattern": [
+    "III",
+    "ISI",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "S": {
+      "item": "newerafoundation:emerald_shulker"
+    }
+  },
+  "result": {
+    "id": "newerafoundation:crystal_shulker",
+    "count": 1
+  }
+}

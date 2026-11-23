@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "newerafoundation:block/obsidian_hopper"
+    },
+    "facing=east": {
+      "model": "newerafoundation:block/obsidian_hopper_side",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "newerafoundation:block/obsidian_hopper_side"
+    },
+    "facing=south": {
+      "model": "newerafoundation:block/obsidian_hopper_side",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "newerafoundation:block/obsidian_hopper_side",
+      "y": 270
+    }
+  }
+}

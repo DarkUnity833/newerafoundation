@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "up=false": {
+      "model": "newerafoundation:block/diamond_tank"
+    },
+    "up=true": {
+      "model": "newerafoundation:block/diamond_tank_stacked"
+    }
+  }
+}

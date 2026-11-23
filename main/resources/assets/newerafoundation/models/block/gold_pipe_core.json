@@ -1,0 +1,6 @@
+{
+  "parent": "newerafoundation:block/pipe_core",
+  "textures": {
+    "pipe": "newerafoundation:block/gold_pipe"
+  }
+}

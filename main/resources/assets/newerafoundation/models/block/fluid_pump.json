@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "newerafoundation:block/pump_top",
+    "front": "newerafoundation:block/pump_front",
+    "side": "newerafoundation:block/pump_side"
+  }
+}

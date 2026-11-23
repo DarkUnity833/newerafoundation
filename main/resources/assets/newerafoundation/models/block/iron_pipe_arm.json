@@ -1,0 +1,6 @@
+{
+  "parent": "newerafoundation:block/pipe_arm",
+  "textures": {
+    "pipe": "newerafoundation:block/iron_pipe"
+  }
+}

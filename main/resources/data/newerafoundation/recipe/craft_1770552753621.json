@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "tag": "minecraft:wool"
+    },
+    "B": {
+      "tag": "minecraft:wool"
+    },
+    "C": {
+      "tag": "minecraft:wool"
+    },
+    "D": {
+      "tag": "c:strings"
+    },
+    "E": {
+      "tag": "c:chests"
+    },
+    "F": {
+      "tag": "c:strings"
+    },
+    "G": {
+      "tag": "minecraft:wool"
+    },
+    "H": {
+      "tag": "minecraft:wool"
+    },
+    "I": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "result": {
+    "id": "newerafoundation:wool_backpack",
+    "count": 1
+  }
+}

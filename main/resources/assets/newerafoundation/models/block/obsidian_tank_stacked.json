@@ -1,0 +1,6 @@
+{
+  "parent": "newerafoundation:block/obsidian_tank",
+  "textures": {
+    "all": "newerafoundation:block/obsidian_tank_side_stacked"
+  }
+}

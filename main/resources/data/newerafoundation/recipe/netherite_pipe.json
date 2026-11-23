@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " I ",
+    "IPI",
+    " I "
+  ],
+  "key": {
+    "I": {
+      "tag": "c:ingots/netherite"
+    },
+    "P": {
+      "item": "newerafoundation:diamond_pipe"
+    }
+  },
+  "result": {
+    "id": "newerafoundation:netherite_pipe",
+    "count": 1
+  }
+}

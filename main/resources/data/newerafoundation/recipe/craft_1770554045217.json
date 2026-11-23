@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "B": {
+      "item": "minecraft:obsidian"
+    },
+    "C": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "D": {
+      "item": "minecraft:obsidian"
+    },
+    "E": {
+      "item": "newerafoundation:crystal_smoker"
+    },
+    "F": {
+      "item": "minecraft:obsidian"
+    },
+    "G": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "H": {
+      "item": "minecraft:obsidian"
+    },
+    "I": {
+      "item": "minecraft:crying_obsidian"
+    }
+  },
+  "result": {
+    "id": "newerafoundation:obsidian_smoker",
+    "count": 1
+  }
+}

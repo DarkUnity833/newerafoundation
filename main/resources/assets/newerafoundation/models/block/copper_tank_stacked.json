@@ -1,0 +1,6 @@
+{
+  "parent": "newerafoundation:block/copper_tank",
+  "textures": {
+    "all": "newerafoundation:block/copper_tank_side_stacked"
+  }
+}

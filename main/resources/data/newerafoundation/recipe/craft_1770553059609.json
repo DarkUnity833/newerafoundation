@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:ingots/copper"
+    },
+    "B": {
+      "tag": "c:ingots/copper"
+    },
+    "C": {
+      "tag": "c:ingots/copper"
+    },
+    "D": {
+      "tag": "c:ingots/copper"
+    },
+    "E": {
+      "item": "newerafoundation:leather_backpack"
+    },
+    "F": {
+      "tag": "c:ingots/copper"
+    },
+    "G": {
+      "tag": "c:ingots/copper"
+    },
+    "H": {
+      "tag": "c:ingots/copper"
+    },
+    "I": {
+      "tag": "c:ingots/copper"
+    }
+  },
+  "result": {
+    "id": "newerafoundation:copper_backpack",
+    "count": 1
+  }
+}

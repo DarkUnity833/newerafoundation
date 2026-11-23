@@ -1,0 +1,21 @@
+{
+  "type": "newerafoundation:shulker_upgrade",
+  "category": "misc",
+  "pattern": [
+    "III",
+    "ISI",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:obsidian"
+    },
+    "S": {
+      "item": "newerafoundation:crystal_shulker"
+    }
+  },
+  "result": {
+    "id": "newerafoundation:obsidian_shulker",
+    "count": 1
+  }
+}

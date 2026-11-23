@@ -1,0 +1,6 @@
+{
+  "parent": "newerafoundation:block/iron_tank",
+  "textures": {
+    "all": "newerafoundation:block/iron_tank_side_stacked"
+  }
+}

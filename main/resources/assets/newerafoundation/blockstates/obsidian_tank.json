@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "up=false": {
+      "model": "newerafoundation:block/obsidian_tank"
+    },
+    "up=true": {
+      "model": "newerafoundation:block/obsidian_tank_stacked"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "top": "newerafoundation:block/iron_smoker_top",
+    "bottom": "newerafoundation:block/iron_smoker_side",
+    "side": "newerafoundation:block/iron_smoker_side",
+    "front": "newerafoundation:block/iron_smoker_front"
+  }
+}
